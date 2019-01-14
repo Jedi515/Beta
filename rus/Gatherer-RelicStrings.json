@@ -3,7 +3,7 @@
     "NAME": "Сумка алхимика",
     "FLAVOR": "A mysterious bag with the power of recurring potions.",
     "DESCRIPTIONS": [
-      "Даёт #b1 случайное Малое зелье в начале каждого боя."
+      "Даёт #b1 случайное #yМалое зелье в начале каждого боя."
     ]
   },
   "Gatherer:MiracleBag": {
