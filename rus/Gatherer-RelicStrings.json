@@ -39,7 +39,7 @@
     "NAME": "Остатки",
     "FLAVOR": "How alchemists make new material from leftovers is a mystery.",
     "DESCRIPTIONS": [
-      "Когда вы используете зелье, даёт случайное #yМалое зелье с 20% шансом."
+      "Когда вы используете любое зелье, даёт с 20% шансом случайное #yМалое зелье."
     ]
   },
   "Gatherer:FlyingFruit": {
